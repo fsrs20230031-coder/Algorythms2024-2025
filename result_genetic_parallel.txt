@@ -1,0 +1,7 @@
+ks_4_0 19, parallel:1156.2ms,single:483.794ms
+ks_19_0 11959, parallel:1150.58ms,single:542.545ms
+ks_50_0 138871, parallel:1197.54ms,single:989.353ms
+ks_100_1 1327980, parallel:1277.01ms,single:2001.16ms
+ks_200_1 1090040, parallel:1444.35ms,single:4070.9ms
+ks_300_0 1668725, parallel:1646.62ms,single:5333.79ms
+ks_400_0 3939030, parallel:2133.14ms,single:7702.9ms
